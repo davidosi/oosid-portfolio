@@ -885,13 +885,16 @@
      justify-content: center;
      align-items: center;
      flex: 0 auto;
+     overflow: hidden;
      grid-column-gap: 10px;
      grid-row-gap: 10px;
      border-radius: 15px;
      background-color: #202020;
-     background-image: url("https://uploads-ssl.webflow.com/63e1293eee3ff5478ad14172/642b9c8f12112fad92dea7d8_020.png");
-     background-position: 50% 50%;
+     background-position: center
      background-size: cover;
+   }
+   .head-image1.undo-redo {
+    background-image: url("https://uploads-ssl.webflow.com/63e1293eee3ff5478ad14172/642b9c8f12112fad92dea7d8_020.png");
    }
    
    .head-image1.takeoff {
