@@ -1048,7 +1048,7 @@
    .about-me {
      overflow: visible;
      max-height: 100%;
-     max-width: 100%;
+     max-width: 450px;
      min-width: 0px;
      -ms-grid-row-align: stretch;
          align-self: stretch;
